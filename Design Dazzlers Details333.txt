@@ -1,0 +1,89 @@
+Team Name: Design Dazzlers
+
+
+Motto: Crafting User Experiences, One Pixel at a Time
+
+What is a Motto?
+******TO BE DELETED and replaced with MOTTO Phrase ---- A motto is a phrase that explains a brand's values by summarizing their core principles or beliefs. A motto is often what comes to mind first when people think about your brand or business. A slogan, on the other hand, is a short statement that promises good value for a service or commodity.*****
+
+
+Brief bio of each Team Member:
+******TO BE DELETED and replaced with: Your Name, Your Hometown, Your professional goals, Your hobbies, Your emojis you selected last Friday in class 28/07/23*****
+
+
+Team Member 1 : Johann-Teddy Ferreira, Jeffreys Bay, Graduating from NMU with my BIT degree, Gaming, Pizza slice, Laptop, Star
+
+Team Member 2 : Aviwe Mhlatyana, Port Elizabeth, Becoming a software developer or engineer, Producing Beats, Pizza slice, Laptop, Star
+
+Team Member 3 :Dalisto Simukoko, Zambia(Kitwe), becoming a software Engineer, Gym,star,laptop,lifting weight emoji.
+
+
+Team Member 4 :Hlompho-Lucky Skhosana,Port Elizabeth,Becoming a programmer,gaming ,reading
+
+Team Member 5 :Kemese Ayabonga, Peddie, Becoming a network Engineer, {Gaming, Reading, gym}, laptop, book.
+
+Task 1(SDLC Methadologies):
+
+Johann-Teddy Ferreira:
+Waterfall model= The waterfall model uses a logical progression of SDLC steps for a project, similar to the direction water flows over the edge of a cliff. It sets distinct endpoints or goals for each phase of development. Those endpoints or goals can't be revisited after their completion.
+Agile= Agile Software Development Life Cycle (SDLC) is the combination of both iterative and incremental process models. It focuses on process adaptability and customer satisfaction by rapid delivery of working software product. Agile SDLC breaks down the product into small incremental builds.
+
+Aviwe Mhlatyana: 
+RAD(Rapid Application Development) - This methadology uses rapid prototyping without much planning to kick start the development of a prototype so the developers can know how the app will function.
+Spiral Model - Is a method which is used for risk analysis and risk management and it combines the iterative development process model with elements of the Waterfall model.
+
+Dalitso Simukoko:
+Scrum- Scrum is an agile project management framework that helps teams structure and manage their work through a set of values, principles, and practices
+Extreme Programming- Extreme Programming (XP) is an agile software development framework that aims to produce higher quality software, and higher quality of life for the development team. XP is the most specific of the agile frameworks regarding appropriate engineering practices for software development. 
+
+Hlompho Skhosana:
+Rational Unified Processis a systematic way to allocate tasks and responsibilities within a development team that offers best practices and guidelines for effective software development. I
+Feature Driven Development (FDD) is an agile framework that, as its name suggests, organizes software development around making progress on features.
+
+Ayabonga Kemese:
+DSDM [Dynamic System Development Method] an Agile method that focuses on the full project lifecycle.DSDM has a broader focus than most other Agile approaches in that it deals with projects rather than just the development and delivery of a product
+Lean -  a continuous improvement methodology that is a systematic approach to identifying and eliminating waste in processes to deliver more value to customers with fewer resources.
+
+Task 2:
+
+Johann-Teddy Ferreira:
+Throwaway prototyping is the process of creating prototype versions of a product, or a single element of a product, to test specific ideas and concepts. With 'throw-away' prototyping a small part of the system is developed and then given to the end user to try out and evaluate. The user provides feedback which can quickly be incorporated into the development of the main system. The prototype is then discarded or thrown away.
+
+Task 3:
+
+Johann-Teddy Ferreira:
+Low-fidelity (lo-fi) prototyping is a quick and easy way to translate high-level design concepts into tangible and testable artefacts. Example: sketches.
+
+Pros= Inexpensive, Fast, Collaborative, Clarifying
+Cons= Uncertainty during testing, Limited interactivity
+
+Task 2
+Extreme prototyping is specifically used in web development and divided into three stages, with the second stage being the most important. Critical to these stages are the various layers of an extreme prototype model: the presentation layer or user interface and service layers – communication, business logic and authorization.
+
+The process is called Extreme Prototyping to draw attention to the second phase of the process, where a fully functional UI is developed with very little regard to the services other than their contract.
+
+
+
+The three stages of extreme prototyping:
+
+1: Prepare an HTML build to represent the presentation layer
+
+2: Convert the prototype into a fully functional model by connecting it with the service layers
+
+3: Finalize the production by implementing the service layers
+
+Task 4
+
+Adobe Illustrator is a vector graphics editor and design program developed and marketed by Adobe Inc. Originally designed for the Apple Macintosh, development of Adobe Illustrator began in 1985. Along with Creative Cloud (Adobe's shift to a monthly or annual subscription service delivered over the Internet), Illustrator CC was released.
+
+
+
+
+
+Adobe Illustrator is commonly used to create logos, promotional or branded content, icons, website graphics, digital artwork, and more. It is popular in the business world for graphic design projects related to marketing, advertising, and branding, as well as with artists who create digital artwork personally and professionally. 
+
+
+
+Illustrator is not only useful to artists and graphic designers. Individuals making a website can create a mockup through Illustrator, which they can use to create vector images for a wide variety of platforms. Marketers and content creators can use Illustrator to efficiently create digital marketing materials, graphics for email newsletters, social media images, and more. You can use Illustrator to easily create sleek, aesthetically pleasing company logos and promotional materials. 
+Do you want to add a circle around a particular image or logo? Not a problem! Do you want to type a word inside the shape of the CEO’s head? You can do that as well. It’s not as complicated as you may think.
+
